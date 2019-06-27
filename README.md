@@ -3,7 +3,7 @@ This project shows how to use bridge in React Native
 
 ## Installation
 - git clone https://github.com/maymax777/RN-Detect-Incoming-Call-Master.git
-- Run npm i
+- npm i
 - react-native run-android << this project supports only android version : comming soon ios version ;-) >>
 
 ## ScreenShot
